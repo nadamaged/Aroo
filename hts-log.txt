@@ -1,0 +1,415 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 12 Feb 2024 15:49:17 at https://billo.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://billo.app/ -O1 "C:\My Web Sites\UGC" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:50:59	Error: 	"Forbidden" (403) at link https://billo.app/xmlrpc.php?rsd (from https://billo.app/)
+15:50:59	Error: 	"Bad Request" (400) at link https://gtm.billo.app/gtm.js?id= (from https://billo.app/)
+15:55:31	Warning: 	Link https://billo.app/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+15:55:32	Error: 	"Not Found" (404) at link https://billo.app/xhr.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js?ver=5)
+15:55:32	Error: 	"Not Found" (404) at link https://billo.app/GET (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js?ver=5)
+15:55:32	Error: 	"Not Found" (404) at link https://billo.app/lib/widget-management.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js?ver=5)
+15:55:32	Warning: 	Moved Permanently for https://billo.app/?p=9389
+15:55:32	Warning: 	File has moved from https://billo.app/?p=9389 to https://billo.app/ecommerce-marketing/
+15:55:32	Warning: 	Moved Permanently for https://billo.app/?p=1651
+15:55:32	Warning: 	File has moved from https://billo.app/?p=1651 to https://billo.app/for-agencies/
+15:56:41	Error: 	"Not Found" (404) at link https://billo.app/?page_id=10970 (from https://billo.app/for-agencies/)
+15:56:41	Warning: 	Moved Permanently for https://billo.app/?p=9352
+15:56:41	Warning: 	File has moved from https://billo.app/?p=9352 to https://billo.app/app-marketing/
+15:56:41	Warning: 	Moved Permanently for https://billo.app/?p=3650
+15:56:41	Warning: 	File has moved from https://billo.app/?p=3650 to https://billo.app/tiktok-video-ads/
+15:56:41	Warning: 	Moved Permanently for https://billo.app/?p=4411
+15:56:41	Warning: 	File has moved from https://billo.app/?p=4411 to https://billo.app/facebook-video-ads/
+15:56:48	Warning: 	Moved Permanently for https://billo.app/summary-pricing-1/
+15:56:48	Warning: 	File has moved from https://billo.app/summary-pricing-1/ to https://billo.app/quiz/summary-pricing-1/
+15:56:48	Warning: 	Moved Permanently for https://billo.app/summary-pricing/
+15:56:48	Warning: 	File has moved from https://billo.app/summary-pricing/ to https://billo.app/quiz/summary-pricing/
+15:56:51	Error: 	"Not Found" (404) at link https://billo.app/facebook-video-ads/quiz/summary/ (from https://billo.app/facebook-video-ads/)
+15:56:51	Warning: 	Moved Permanently for https://billo.app/step-3-1/
+15:56:51	Warning: 	File has moved from https://billo.app/step-3-1/ to https://billo.app/quiz/step-3-1/
+15:56:54	Warning: 	Moved Permanently for https://billo.app/step-3/
+15:56:54	Warning: 	File has moved from https://billo.app/step-3/ to https://billo.app/quiz/step-3/
+15:56:55	Warning: 	Moved Permanently for https://billo.app/homepage-v2/
+15:56:55	Warning: 	File has moved from https://billo.app/homepage-v2/ to /
+15:57:03	Error: 	"Not Found" (404) at link https://billo.app/quiz-1/step-7-1/ (from https://billo.app/facebook-video-ads/)
+15:57:03	Warning: 	Moved Permanently for https://billo.app/?p=4418
+15:57:03	Warning: 	File has moved from https://billo.app/?p=4418 to https://billo.app/instagram-video-ads/
+15:57:03	Warning: 	Moved Permanently for https://billo.app/?p=4421
+15:57:03	Warning: 	File has moved from https://billo.app/?p=4421 to https://billo.app/youtube-video-ads/
+15:57:03	Warning: 	Moved Permanently for https://billo.app/?p=4440
+15:57:03	Warning: 	File has moved from https://billo.app/?p=4440 to https://billo.app/amazon-product-videos/
+15:57:03	Warning: 	Moved Permanently for https://billo.app/?p=4431
+15:57:03	Warning: 	File has moved from https://billo.app/?p=4431 to https://billo.app/shopify-product-videos/
+15:57:03	Warning: 	Moved Permanently for https://billo.app/?p=8731
+15:57:03	Warning: 	File has moved from https://billo.app/?p=8731 to https://billo.app/custom-videos/
+16:19:46	Error: 	"Forbidden" (403) at link https://billo.app/stock/xmlrpc.php?rsd (from https://billo.app/stock/)
+16:19:46	Warning: 	Moved Permanently for https://billo.app/stock/videos/
+16:19:46	Warning: 	File has moved from https://billo.app/stock/videos/ to /stock/videos
+16:19:46	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://billo.app/stock/)
+16:19:46	Warning: 	Found for https://billo.app/stock/wp-admin/
+16:19:46	Warning: 	File has moved from https://billo.app/stock/wp-admin/ to https://billo.app/stock/wp-login.php?redirect_to=https%3A%2F%2Fbillo.app%2Fstock%2Fwp-admin%2F&reauth=1
+16:20:08	Warning: 	Moved Permanently for https://billo.app/stock/faq/
+16:20:08	Warning: 	File has moved from https://billo.app/stock/faq/ to /stock/faq
+16:20:10	Warning: 	Moved Permanently for https://billo.app/stock/terms-and-conditions/
+16:20:10	Warning: 	File has moved from https://billo.app/stock/terms-and-conditions/ to /stock/terms-and-conditions
+16:20:12	Warning: 	Moved Permanently for https://billo.app/stock/privacy-policy/
+16:20:12	Warning: 	File has moved from https://billo.app/stock/privacy-policy/ to /stock/privacy-policy
+16:20:28	Error: 	"Bad Request" (400) at link https://billo.app/stock/wp-admin/admin-ajax.php (from https://billo.app/stock/)
+16:20:28	Warning: 	Moved Permanently for https://billo.app/?p=24989
+16:20:28	Warning: 	File has moved from https://billo.app/?p=24989 to https://billo.app/pricing/
+16:20:28	Warning: 	Moved Permanently for https://billo.app/?p=1881
+16:20:28	Warning: 	File has moved from https://billo.app/?p=1881 to https://billo.app/for-creators/
+16:20:28	Warning: 	Moved Permanently for https://billo.app/?p=2976
+16:20:28	Warning: 	File has moved from https://billo.app/?p=2976 to https://billo.app/blog/
+16:21:11	Warning: 	Moved Permanently for https://billo.app/?p=11072
+16:21:11	Warning: 	File has moved from https://billo.app/?p=11072 to https://billo.app/about/
+16:21:11	Warning: 	Moved Permanently for https://billo.app/?p=24581
+16:21:11	Warning: 	File has moved from https://billo.app/?p=24581 to https://billo.app/affiliate-program/
+16:21:11	Warning: 	Moved Permanently for https://billo.app/?p=12342
+16:21:11	Warning: 	File has moved from https://billo.app/?p=12342 to https://billo.app/jobs/
+16:21:21	Warning: 	Moved Permanently for https://billo.app/?p=2992
+16:21:21	Warning: 	File has moved from https://billo.app/?p=2992 to https://billo.app/terms-of-service/
+16:21:21	Warning: 	Moved Permanently for https://billo.app/?p=9503
+16:21:21	Warning: 	File has moved from https://billo.app/?p=9503 to https://billo.app/privacy-policy/
+16:21:21	Error: 	"Not Found" (404) at link https://billo.app/privacy-policy/quiz/summary/ (from https://billo.app/privacy-policy/)
+16:21:21	Warning: 	Moved Permanently for https://billo.app/?p=2994
+16:21:21	Warning: 	File has moved from https://billo.app/?p=2994 to https://billo.app/refund-policy/
+16:21:22	Warning: 	Moved Permanently for https://billo.app/?p=20365
+16:21:22	Warning: 	File has moved from https://billo.app/?p=20365 to https://billo.app/credit-expiration-policy/
+16:21:22	Warning: 	Moved Permanently for https://billo.app/?p=8619
+16:21:22	Warning: 	File has moved from https://billo.app/?p=8619 to https://billo.app/health-wellness-fitness-videos/
+16:21:31	Warning: 	Moved Permanently for https://billo.app/?p=8692
+16:21:31	Warning: 	File has moved from https://billo.app/?p=8692 to https://billo.app/apparel-videos/
+16:21:41	Warning: 	Moved Permanently for https://billo.app/?p=8702
+16:21:41	Warning: 	File has moved from https://billo.app/?p=8702 to https://billo.app/cosmetics-videos/
+16:21:48	Warning: 	Moved Permanently for https://billo.app/?p=8713
+16:21:48	Warning: 	File has moved from https://billo.app/?p=8713 to https://billo.app/consumer-goods-videos/
+16:21:55	Warning: 	Moved Permanently for https://billo.app/?p=8724
+16:21:55	Warning: 	File has moved from https://billo.app/?p=8724 to https://billo.app/food-videos/
+16:22:01	Warning: 	Moved Permanently for https://billo.app/?p=18963
+16:22:01	Warning: 	File has moved from https://billo.app/?p=18963 to https://billo.app/quiz/
+16:22:05	Warning: 	Found for https://billo.app/quiz/summary-pricing-1/
+16:22:05	Warning: 	File has moved from https://billo.app/quiz/summary-pricing-1/ to /quiz/
+16:22:05	Warning: 	Moved Permanently for https://billo.app/quiz/summary-pricing/
+16:22:05	Warning: 	File has moved from https://billo.app/quiz/summary-pricing/ to /quiz/summary-pricing-1/
+16:22:12	Warning: 	Moved Permanently for https://billo.app/?p=3846
+16:22:12	Warning: 	File has moved from https://billo.app/?p=3846 to https://billo.app/ugc-creators/
+16:22:32	Warning: 	Moved Permanently for https://billo.app/?p=2974
+16:22:32	Warning: 	File has moved from https://billo.app/?p=2974 to https://billo.app/showcase/
+16:22:53	Warning: 	Moved Permanently for https://billo.app/?p=20071
+16:22:53	Warning: 	File has moved from https://billo.app/?p=20071 to https://billo.app/seo-landing/
+16:23:39	Warning: 	Link https://billo.app/stock/wp-login.php?redirect_to=https%3A%2F%2Fbillo.app%2Fstock%2Fwp-admin%2F%26reauth=1 not scanned (follow robots meta tag)
+16:23:40	Warning: 	Moved Permanently for https://billo.app/stock/?p=7
+16:23:40	Warning: 	File has moved from https://billo.app/stock/?p=7 to https://billo.app/stock/cart
+16:23:40	Warning: 	Moved Permanently for https://billo.app/stock/?p=295
+16:23:40	Warning: 	File has moved from https://billo.app/stock/?p=295 to https://billo.app/stock/videos
+16:23:40	Warning: 	Link https://billo.app/stock/faq not scanned (follow robots meta tag)
+16:23:41	Warning: 	Link https://billo.app/stock/terms-and-conditions not scanned (follow robots meta tag)
+16:23:41	Warning: 	Link https://billo.app/stock/privacy-policy not scanned (follow robots meta tag)
+16:23:41	Error: 	"Not Found" (404) at link https://billo.app/stock/audio.ogg (from https://billo.app/stock/wp-content/uploads/fusion-scripts/cf4e40a695428d8bc9ea4cd7cc547c68.min.js?ver=3.10.1)
+16:23:41	Error: 	"Not Found" (404) at link https://billo.app/stock/audio.mp3 (from https://billo.app/stock/wp-content/uploads/fusion-scripts/cf4e40a695428d8bc9ea4cd7cc547c68.min.js?ver=3.10.1)
+16:23:41	Error: 	"Not Found" (404) at link https://billo.app/stock/audio.wav (from https://billo.app/stock/wp-content/uploads/fusion-scripts/cf4e40a695428d8bc9ea4cd7cc547c68.min.js?ver=3.10.1)
+16:23:41	Error: 	"Not Found" (404) at link https://billo.app/stock/video.ogg (from https://billo.app/stock/wp-content/uploads/fusion-scripts/cf4e40a695428d8bc9ea4cd7cc547c68.min.js?ver=3.10.1)
+16:23:41	Warning: 	Moved Permanently for https://billo.app/stock/video/
+16:23:41	Warning: 	File has moved from https://billo.app/stock/video/ to /stock/video
+16:23:44	Warning: 	Moved Permanently for https://billo.app/stock/image/
+16:23:44	Warning: 	File has moved from https://billo.app/stock/image/ to /stock/image
+16:23:45	Error: 	"Not Found" (404) at link https://billo.app/stock/+this.settings.image+ (from https://billo.app/stock/wp-content/uploads/fusion-scripts/cf4e40a695428d8bc9ea4cd7cc547c68.min.js?ver=3.10.1)
+16:23:45	Warning: 	Link https://billo.app/stock/product/get-close-with-protection not scanned (follow robots meta tag)
+16:26:04	Warning: 	Moved Permanently for https://billo.app/ugc-short-form-videos/
+16:26:04	Warning: 	File has moved from https://billo.app/ugc-short-form-videos/ to https://billo.app/ugc-marketing/
+16:29:21	Warning: 	Moved Permanently for https://billo.app/how-to-become-tiktok-famous-overnight/
+16:29:21	Warning: 	File has moved from https://billo.app/how-to-become-tiktok-famous-overnight/ to https://billo.app/how-to-get-tiktok-famous/
+16:29:43	Warning: 	Moved Permanently for https://billo.app/?p=25542
+16:29:43	Warning: 	File has moved from https://billo.app/?p=25542 to https://billo.app/good-review-examples/
+16:29:52	Warning: 	Moved Permanently for https://billo.app/?p=25546
+16:29:52	Warning: 	File has moved from https://billo.app/?p=25546 to https://billo.app/how-to-add-instagram-feed-to-shopify/
+16:29:53	Warning: 	Moved Permanently for https://billo.app/?p=25536
+16:29:53	Warning: 	File has moved from https://billo.app/?p=25536 to https://billo.app/how-to-ask-for-a-review/
+16:29:55	Warning: 	Moved Permanently for https://billo.app/?p=25512
+16:29:55	Warning: 	File has moved from https://billo.app/?p=25512 to https://billo.app/instagram-feed-on-website/
+16:30:00	Warning: 	Moved Permanently for https://billo.app/?p=25509
+16:30:00	Warning: 	File has moved from https://billo.app/?p=25509 to https://billo.app/how-to-add-reviews-to-shopify/
+16:30:00	Warning: 	Moved Permanently for https://billo.app/?p=14346
+16:30:00	Warning: 	File has moved from https://billo.app/?p=14346 to https://billo.app/jobs/analytics-engineer/
+16:30:00	Warning: 	Moved Permanently for https://billo.app/?p=25273
+16:30:00	Warning: 	File has moved from https://billo.app/?p=25273 to https://billo.app/jobs/senior-software-engineer/
+16:30:04	Warning: 	Moved Permanently for https://billo.app/?p=25479
+16:30:04	Warning: 	File has moved from https://billo.app/?p=25479 to https://billo.app/jobs/senior-front-end-engineer/
+16:30:05	Warning: 	Moved Permanently for https://billo.app/?p=24919
+16:30:05	Warning: 	File has moved from https://billo.app/?p=24919 to https://billo.app/jobs/ux-designer/
+16:30:05	Warning: 	Moved Permanently for https://billo.app/?p=25487
+16:30:05	Warning: 	File has moved from https://billo.app/?p=25487 to https://billo.app/jobs/motion-designer/
+16:30:16	Warning: 	Moved Permanently for https://billo.app/?p=18967
+16:30:16	Warning: 	File has moved from https://billo.app/?p=18967 to https://billo.app/quiz/step-1/
+16:30:21	Warning: 	Moved Permanently for https://billo.app/?p=20381
+16:30:21	Warning: 	File has moved from https://billo.app/?p=20381 to https://billo.app/quiz/step-3-1/
+16:30:24	Warning: 	Moved Permanently for https://billo.app/?p=18978
+16:30:24	Warning: 	File has moved from https://billo.app/?p=18978 to https://billo.app/quiz/step-3/
+16:30:58	Error: 	"Error when decompressing" (-1) at link https://billo.app/stock/image (from https://billo.app/stock/image/)
+16:30:58	Warning: 	Moved Permanently for https://billo.app/?p=6758
+16:30:58	Warning: 	File has moved from https://billo.app/?p=6758 to https://billo.app/script-scenes-creating-an-engaging-video/
+16:30:58	Warning: 	Moved Permanently for https://billo.app/?p=5747
+16:30:58	Warning: 	File has moved from https://billo.app/?p=5747 to https://billo.app/go-pro-create-studio-level-videos-at-home/
+16:30:58	Warning: 	Moved Permanently for https://billo.app/product-videos/
+16:30:58	Warning: 	File has moved from https://billo.app/product-videos/ to https://billo.app/ecommerce-marketing/
+16:30:58	Warning: 	Moved Permanently for https://billo.app/?p=4974
+16:30:58	Warning: 	File has moved from https://billo.app/?p=4974 to https://billo.app/camera-magic-angles-lighting-and-framing/
+16:30:58	Warning: 	Moved Permanently for https://billo.app/?p=8213
+16:30:58	Warning: 	File has moved from https://billo.app/?p=8213 to https://billo.app/editing-101-make-your-video-stand/
+16:31:05	Warning: 	Moved Permanently for https://billo.app/?p=8201
+16:31:05	Warning: 	File has moved from https://billo.app/?p=8201 to https://billo.app/superstar-skills-for-the-on-camera-creative-2/
+16:31:05	Warning: 	Moved Permanently for https://billo.app/?p=8197
+16:31:05	Warning: 	File has moved from https://billo.app/?p=8197 to https://billo.app/billo-summit-2021-keynote-talk-by-rory-sutherland/
+16:31:05	Warning: 	Moved Permanently for https://billo.app/?p=8196
+16:31:05	Warning: 	File has moved from https://billo.app/?p=8196 to https://billo.app/ceo-manual-to-grow-yourself-your-company-your-team-at-the-same-level/
+16:31:05	Warning: 	Moved Permanently for https://billo.app/?p=8195
+16:31:05	Warning: 	File has moved from https://billo.app/?p=8195 to https://billo.app/turn-your-youtube-into-your-most-profitable-revenue-stream/
+16:31:07	Warning: 	Moved Permanently for https://billo.app/?p=8193
+16:31:07	Warning: 	File has moved from https://billo.app/?p=8193 to https://billo.app/how-to-use-copy-to-stand-out-and-send-your-sales-soaring/
+16:31:07	Warning: 	Moved Permanently for https://billo.app/?p=8192
+16:31:07	Warning: 	File has moved from https://billo.app/?p=8192 to https://billo.app/creative-strategy-for-scaling-to-100k-day-in-profitable-ad-spend/
+16:31:07	Warning: 	Moved Permanently for https://billo.app/?p=13340
+16:31:07	Warning: 	File has moved from https://billo.app/?p=13340 to https://billo.app/unlock-the-power-of-persuasion-master-ad-script-writing-formulas/
+16:31:07	Error: 	"Not Found" (404) at link https://billo.app/spring-wipe-out/ (from https://billo.app/unlock-the-power-of-persuasion-master-ad-script-writing-formulas/)
+16:31:07	Warning: 	Moved Permanently for https://billo.app/?p=8290
+16:31:07	Warning: 	File has moved from https://billo.app/?p=8290 to https://billo.app/create-sales-increasing-product-videos/
+16:31:07	Warning: 	Moved Permanently for https://billo.app/video-ugc/
+16:31:07	Warning: 	File has moved from https://billo.app/video-ugc/ to https://billo.app/ugc-video-examples/
+16:31:07	Warning: 	Moved Permanently for https://billo.app/?p=6009
+16:31:07	Warning: 	File has moved from https://billo.app/?p=6009 to https://billo.app/video-products/
+16:31:09	Warning: 	Moved Permanently for https://billo.app/?p=6177
+16:31:09	Warning: 	File has moved from https://billo.app/?p=6177 to https://billo.app/shopify-start-optimize-scale-smart/
+16:31:09	Warning: 	Moved Permanently for https://billo.app/?p=5348
+16:31:09	Warning: 	File has moved from https://billo.app/?p=5348 to https://billo.app/product-videos-ecommerce/
+16:31:21	Warning: 	Moved Permanently for https://billo.app/?p=24172
+16:31:21	Warning: 	File has moved from https://billo.app/?p=24172 to https://billo.app/black-friday-ads/
+16:31:21	Warning: 	Moved Permanently for https://billo.app/?p=17403
+16:31:21	Warning: 	File has moved from https://billo.app/?p=17403 to https://billo.app/ugc-marketing/
+16:31:21	Warning: 	Moved Permanently for https://billo.app/breaking-into-the-creator-economy-key-steps-to-success/
+16:31:21	Warning: 	File has moved from https://billo.app/breaking-into-the-creator-economy-key-steps-to-success/ to https://billo.app/blog/
+16:31:29	Warning: 	Moved Permanently for https://billo.app/?p=17219
+16:31:29	Warning: 	File has moved from https://billo.app/?p=17219 to https://billo.app/ai-and-ugc-marketing/
+16:31:29	Warning: 	Moved Permanently for https://billo.app/?p=11711
+16:31:29	Warning: 	File has moved from https://billo.app/?p=11711 to https://billo.app/your-black-friday-video-content-strategy-cheat-sheet/
+16:31:29	Warning: 	Moved Permanently for https://billo.app/?p=25494
+16:31:29	Warning: 	File has moved from https://billo.app/?p=25494 to https://billo.app/how-to-get-tiktok-famous-essential-steps/
+16:31:37	Warning: 	Moved Permanently for https://billo.app/?p=25432
+16:31:37	Warning: 	File has moved from https://billo.app/?p=25432 to https://billo.app/how-to-repost-on-tiktok/
+16:31:42	Warning: 	Moved Permanently for https://billo.app/?p=25412
+16:31:42	Warning: 	File has moved from https://billo.app/?p=25412 to https://billo.app/how-to-go-viral-on-tiktok/
+16:31:45	Warning: 	Moved Permanently for https://billo.app/?p=22425
+16:31:45	Warning: 	File has moved from https://billo.app/?p=22425 to https://billo.app/tiktok-ad-campaigns/
+16:31:56	Warning: 	Moved Permanently for https://billo.app/?p=12223
+16:31:56	Warning: 	File has moved from https://billo.app/?p=12223 to https://billo.app/tiktok-ads-vs-facebook-ads-what-should-e-commerce-choose/
+16:31:56	Warning: 	Moved Permanently for https://billo.app/?p=25439
+16:31:56	Warning: 	File has moved from https://billo.app/?p=25439 to https://billo.app/ugc-portfolio/
+16:31:56	Warning: 	Moved Permanently for https://billo.app/social-media-content-creator/
+16:31:56	Warning: 	File has moved from https://billo.app/social-media-content-creator/ to https://billo.app/category/social-media-marketing/
+16:31:56	Warning: 	Moved Permanently for https://billo.app/?p=25407
+16:31:56	Warning: 	File has moved from https://billo.app/?p=25407 to https://billo.app/ugc-tools/
+16:33:06	Warning: 	Moved Permanently for https://billo.app/?p=25400
+16:33:06	Warning: 	File has moved from https://billo.app/?p=25400 to https://billo.app/ugc-contests/
+16:33:06	Warning: 	Moved Permanently for https://billo.app/?p=25391
+16:33:06	Warning: 	File has moved from https://billo.app/?p=25391 to https://billo.app/ugc-seo/
+16:37:29	Warning: 	Moved Permanently for https://billo.app/?p=24971
+16:37:29	Warning: 	File has moved from https://billo.app/?p=24971 to https://billo.app/ugc-email/
+16:37:29	Warning: 	Moved Permanently for https://billo.app/how-to-get-tiktok-famous/
+16:37:29	Warning: 	File has moved from https://billo.app/how-to-get-tiktok-famous/ to https://billo.app/how-to-get-tiktok-famous-essential-steps/
+16:37:29	Warning: 	Moved Permanently for https://billo.app/?p=6858
+16:37:29	Warning: 	File has moved from https://billo.app/?p=6858 to https://billo.app/how-to-become-a-brand-ambassador-on-instagram/
+16:37:29	Warning: 	Moved Permanently for https://billo.app/?p=6828
+16:37:29	Warning: 	File has moved from https://billo.app/?p=6828 to https://billo.app/tiktok-content-creator/
+16:37:29	Warning: 	Moved Permanently for https://billo.app/?p=8214
+16:37:29	Warning: 	File has moved from https://billo.app/?p=8214 to https://billo.app/how-to-become-an-influencer-on-instagram/
+16:37:35	Warning: 	Moved Permanently for https://billo.app/how-to-create-effective-video-ads-across-all-social-media-platforms/
+16:37:35	Warning: 	File has moved from https://billo.app/how-to-create-effective-video-ads-across-all-social-media-platforms/ to https://billo.app/create-effective-video-ads/
+16:37:35	Warning: 	Moved Permanently for https://billo.app/?p=8215
+16:37:35	Warning: 	File has moved from https://billo.app/?p=8215 to https://billo.app/beauty-influencer/
+16:37:35	Error: 	"Not Found" (404) at link https://billo.app/beauty-influencer/quiz/summary/ (from https://billo.app/beauty-influencer/)
+16:37:39	Warning: 	Moved Permanently for https://billo.app/?p=8132
+16:37:39	Warning: 	File has moved from https://billo.app/?p=8132 to https://billo.app/shopify-experts-qas-tips-for-creating-high-converting-videos-for-shopify-in-2022/
+16:37:39	Warning: 	Moved Permanently for https://billo.app/?p=7052
+16:37:39	Warning: 	File has moved from https://billo.app/?p=7052 to https://billo.app/corporate-video/
+16:37:39	Warning: 	Moved Permanently for https://billo.app/?p=6864
+16:37:39	Warning: 	File has moved from https://billo.app/?p=6864 to https://billo.app/video-games-advertisement/
+16:37:39	Warning: 	Moved Permanently for https://billo.app/?p=6774
+16:37:39	Warning: 	File has moved from https://billo.app/?p=6774 to https://billo.app/voice-over/
+16:37:45	Warning: 	Moved Permanently for https://billo.app/?p=6015
+16:37:45	Warning: 	File has moved from https://billo.app/?p=6015 to https://billo.app/facebook-video-ad-examples/
+16:37:46	Error: 	"Unauthorized" (401) at link https://billo.app/wp-json/wp/v2/users/24 (from https://billo.app/author/lucas/)
+16:37:46	Error: 	"Unauthorized" (401) at link https://billo.app/wp-json/wp/v2/users/23 (from https://billo.app/author/tomslipkus/)
+16:37:46	Warning: 	Moved Permanently for https://billo.app/?p=24361
+16:37:46	Warning: 	File has moved from https://billo.app/?p=24361 to https://billo.app/why-is-ugc-so-important/
+16:37:54	Warning: 	Moved Permanently for https://billo.app/?p=7050
+16:37:54	Warning: 	File has moved from https://billo.app/?p=7050 to https://billo.app/monetizing-social-media/
+16:37:57	Warning: 	Moved Permanently for https://billo.app/building-a-top-performing-facebook-sales-funnel-with/
+16:37:57	Warning: 	File has moved from https://billo.app/building-a-top-performing-facebook-sales-funnel-with/ to https://billo.app/how-to-scale-facebook-ads/
+16:38:14	Warning: 	Moved Permanently for https://billo.app/?p=18972
+16:38:14	Warning: 	File has moved from https://billo.app/?p=18972 to https://billo.app/quiz/step-2/
+16:38:14	Warning: 	Moved Permanently for https://billo.app/?p=20385
+16:38:14	Warning: 	File has moved from https://billo.app/?p=20385 to https://billo.app/quiz/step-4-1/
+16:38:34	Warning: 	Moved Permanently for https://billo.app/?p=8212
+16:38:34	Warning: 	File has moved from https://billo.app/?p=8212 to https://billo.app/marketing-video-production/
+16:38:34	Warning: 	Moved Permanently for https://billo.app/?p=8200
+16:38:34	Warning: 	File has moved from https://billo.app/?p=8200 to https://billo.app/importance-of-video/
+16:38:43	Warning: 	Moved Permanently for https://billo.app/?p=2975
+16:38:43	Warning: 	File has moved from https://billo.app/?p=2975 to https://billo.app/platform/
+16:38:43	Warning: 	Moved Permanently for https://billo.app/?p=8219
+16:38:43	Warning: 	File has moved from https://billo.app/?p=8219 to https://billo.app/video-content-creator/
+16:38:47	Warning: 	Moved Permanently for https://billo.app/?p=8222
+16:38:47	Warning: 	File has moved from https://billo.app/?p=8222 to https://billo.app/brand-collaborations/
+16:38:47	Warning: 	Moved Permanently for https://billo.app/?p=8206
+16:38:47	Warning: 	File has moved from https://billo.app/?p=8206 to https://billo.app/the-beginners-guide-to-creating-shoppable-videos/
+16:38:47	Warning: 	Moved Permanently for https://billo.app/?p=6030
+16:38:47	Warning: 	File has moved from https://billo.app/?p=6030 to https://billo.app/brand-videos/
+16:38:47	Error: 	"Not Found" (404) at link https://billo.app/5-steps-to-video-marketing-success-a-beginners-guide/ (from https://billo.app/brand-videos/)
+16:38:47	Warning: 	Moved Permanently for https://billo.app/?p=8210
+16:38:47	Warning: 	File has moved from https://billo.app/?p=8210 to https://billo.app/ad-sets/
+16:38:47	Error: 	"Not Found" (404) at link https://billo.app/ad-sets/quiz/summary/ (from https://billo.app/ad-sets/)
+16:38:53	Warning: 	Moved Permanently for https://billo.app/?p=6028
+16:38:53	Warning: 	File has moved from https://billo.app/?p=6028 to https://billo.app/video-storytelling/
+16:38:53	Warning: 	Moved Permanently for https://billo.app/?p=1720
+16:38:53	Warning: 	File has moved from https://billo.app/?p=1720 to https://billo.app/user-generated-content-stay-one-step-ahead-and-skyrocket-your-sales/
+16:38:57	Warning: 	Moved Permanently for https://billo.app/?p=7044
+16:38:57	Warning: 	File has moved from https://billo.app/?p=7044 to https://billo.app/how-to-get-more-views-on-tiktok-hack/
+16:38:57	Error: 	"Not Found" (404) at link https://billo.app/how-to-get-more-views-on-tiktok-hack/quiz/summary/ (from https://billo.app/how-to-get-more-views-on-tiktok-hack/)
+16:38:57	Warning: 	Moved Permanently for https://billo.app/?p=7046
+16:38:57	Warning: 	File has moved from https://billo.app/?p=7046 to https://billo.app/tiktok-automation/
+16:38:57	Error: 	"Not Found" (404) at link https://billo.app/tiktok-automation/quiz/summary/ (from https://billo.app/tiktok-automation/)
+16:38:57	Warning: 	Moved Permanently for https://billo.app/?p=8176
+16:38:57	Warning: 	File has moved from https://billo.app/?p=8176 to https://billo.app/guide-to-tiktok-ads/
+16:38:58	Warning: 	Moved Permanently for https://billo.app/?p=6856
+16:38:58	Warning: 	File has moved from https://billo.app/?p=6856 to https://billo.app/best-time-to-post-on-tiktok/
+16:39:03	Warning: 	Moved Permanently for https://billo.app/?p=8208
+16:39:03	Warning: 	File has moved from https://billo.app/?p=8208 to https://billo.app/branded-content-examples/
+16:39:03	Warning: 	Moved Permanently for https://billo.app/?p=5345
+16:39:03	Warning: 	File has moved from https://billo.app/?p=5345 to https://billo.app/best-hashtags-for-tiktok/
+16:39:03	Warning: 	Moved Permanently for https://billo.app/?p=6320
+16:39:03	Warning: 	File has moved from https://billo.app/?p=6320 to https://billo.app/tiktok-affiliate-marketing/
+16:39:03	Warning: 	Moved Permanently for https://billo.app/?p=23269
+16:39:03	Warning: 	File has moved from https://billo.app/?p=23269 to https://billo.app/ugc-creator/
+16:39:32	Warning: 	Moved Permanently for https://billo.app/?p=23931
+16:39:32	Warning: 	File has moved from https://billo.app/?p=23931 to https://billo.app/ugc-video-examples/
+16:39:32	Warning: 	Moved Permanently for https://billo.app/?p=8188
+16:39:32	Warning: 	File has moved from https://billo.app/?p=8188 to https://billo.app/how-to-cultivate-a-strong-brand-voice-to-rise-above-the-noise/
+16:39:35	Warning: 	Moved Permanently for https://billo.app/?p=8202
+16:39:35	Warning: 	File has moved from https://billo.app/?p=8202 to https://billo.app/skin-care-branding/
+16:39:40	Warning: 	Moved Permanently for https://billo.app/?p=5366
+16:39:40	Warning: 	File has moved from https://billo.app/?p=5366 to https://billo.app/affordable-video-production/
+16:39:41	Error: 	"Unauthorized" (401) at link https://billo.app/wp-json/wp/v2/users/21 (from https://billo.app/author/nadya/)
+16:39:50	Warning: 	Moved Permanently for https://billo.app/?p=6331
+16:39:50	Warning: 	File has moved from https://billo.app/?p=6331 to https://billo.app/b2b-affiliate-marketing/
+16:39:55	Warning: 	Moved Permanently for https://billo.app/?p=6021
+16:39:55	Warning: 	File has moved from https://billo.app/?p=6021 to https://billo.app/testimonial-video/
+16:39:55	Warning: 	Moved Permanently for https://billo.app/?p=5343
+16:39:55	Warning: 	File has moved from https://billo.app/?p=5343 to https://billo.app/influencer-marketing-roi/
+16:40:00	Warning: 	Moved Permanently for https://billo.app/?p=20389
+16:40:00	Warning: 	File has moved from https://billo.app/?p=20389 to https://billo.app/quiz/step-5-1/
+16:40:11	Warning: 	Moved Permanently for https://billo.app/?p=8198
+16:40:11	Warning: 	File has moved from https://billo.app/?p=8198 to https://billo.app/apparel-branding/
+16:40:16	Warning: 	Moved Permanently for https://billo.app/?p=56
+16:40:16	Warning: 	File has moved from https://billo.app/?p=56 to https://billo.app/6-reasons-why-video-advertising-is-the-future-of-digital-marketing/
+16:40:18	Warning: 	Moved Permanently for https://billo.app/?p=8220
+16:40:18	Warning: 	File has moved from https://billo.app/?p=8220 to https://billo.app/social-media-video-production/
+16:40:18	Warning: 	Moved Permanently for https://billo.app/?p=8217
+16:40:18	Warning: 	File has moved from https://billo.app/?p=8217 to https://billo.app/presets-for-instagram/
+16:40:18	Warning: 	Moved Permanently for https://billo.app/?p=8190
+16:40:18	Warning: 	File has moved from https://billo.app/?p=8190 to https://billo.app/smart-marketer-two-highest-converting-facebook-campaigns-of-2021/
+16:40:18	Warning: 	Moved Permanently for https://billo.app/?p=8203
+16:40:18	Warning: 	File has moved from https://billo.app/?p=8203 to https://billo.app/display-ads-examples/
+16:40:18	Warning: 	Moved Permanently for https://billo.app/?p=1839
+16:40:18	Warning: 	File has moved from https://billo.app/?p=1839 to https://billo.app/beginners-guide-to-facebook-video-ads/
+16:40:20	Error: 	"Not Found" (404) at link https://billo.app/wp-content/uploads/2021/07/Facebook_video_ads_e-commerce-1-1.mp4 (from https://billo.app/beginners-guide-to-facebook-video-ads/)
+16:40:20	Warning: 	Moved Permanently for https://billo.app/?p=8169
+16:40:20	Warning: 	File has moved from https://billo.app/?p=8169 to https://billo.app/kamil-sattar-about-tik-tok-ads/
+16:40:20	Warning: 	Moved Permanently for https://billo.app/?p=8205
+16:40:20	Warning: 	File has moved from https://billo.app/?p=8205 to https://billo.app/does-tiktok-show-who-viewed-your-video/
+16:40:23	Warning: 	Moved Permanently for https://billo.app/?p=22021
+16:40:23	Warning: 	File has moved from https://billo.app/?p=22021 to https://billo.app/create-effective-video-ads/
+16:40:32	Error: 	"Not Found" (404) at link https://billo.app/content-creator-youtube/ (from https://billo.app/create-effective-video-ads/)
+16:40:32	Warning: 	Moved Permanently for https://billo.app/?p=6334
+16:40:32	Warning: 	File has moved from https://billo.app/?p=6334 to https://billo.app/affiliate-landing-page/
+16:40:33	Warning: 	Moved Permanently for https://billo.app/?p=6860
+16:40:33	Warning: 	File has moved from https://billo.app/?p=6860 to https://billo.app/paid-partnership/
+16:40:33	Warning: 	Moved Permanently for https://billo.app/?p=8170
+16:40:33	Warning: 	File has moved from https://billo.app/?p=8170 to https://billo.app/top-20-effective-digital-marketing-tools-to-help-you-grow/
+16:40:33	Error: 	"Not Found" (404) at link https://billo.app/videos-drive-sales/ (from https://billo.app/top-20-effective-digital-marketing-tools-to-help-you-grow/)
+16:40:33	Warning: 	Moved Permanently for https://billo.app/ugc-video-examples/chrome-extension://
+16:40:33	Warning: 	Redirected link is identical because of 'URL Hack' option: https://billo.app/ugc-video-examples/chrome-extension:// and https://billo.app/ugc-video-examples/chrome-extension:/
+16:40:33	Warning: 	File has moved from https://billo.app/ugc-video-examples/chrome-extension:// to https://billo.app/ugc-video-examples/chrome-extension:/
+16:40:33	Warning: 	Moved Permanently for https://billo.app/ugc-video-examples/$1/
+16:40:33	Warning: 	File has moved from https://billo.app/ugc-video-examples/$1/ to https://billo.app/video/12418/
+16:40:36	Error: 	"Not Found" (404) at link https://billo.app/ugc-video-examples/captioned/ (from https://www.instagram.com/embed.js)
+16:40:40	Warning: 	Moved Permanently for https://billo.app/?p=24831
+16:40:40	Warning: 	File has moved from https://billo.app/?p=24831 to https://billo.app/ugc-vs-influencers/
+16:40:42	Warning: 	Moved Permanently for https://billo.app/?p=24347
+16:40:42	Warning: 	File has moved from https://billo.app/?p=24347 to https://billo.app/instagram-user-generated-content/
+16:40:46	Warning: 	Moved Permanently for https://billo.app/?p=24165
+16:40:46	Warning: 	File has moved from https://billo.app/?p=24165 to https://billo.app/ugc-tiktok-marketing/
+16:40:46	Warning: 	Moved Permanently for https://billo.app/?p=8211
+16:40:46	Warning: 	File has moved from https://billo.app/?p=8211 to https://billo.app/how-to-scale-facebook-ads/
+16:40:46	Warning: 	Moved Permanently for https://billo.app/?p=8216
+16:40:46	Warning: 	File has moved from https://billo.app/?p=8216 to https://billo.app/whitelisting-social-media/
+16:40:49	Warning: 	Moved Permanently for https://billo.app/?p=20392
+16:40:49	Warning: 	File has moved from https://billo.app/?p=20392 to https://billo.app/quiz/step-6-1/
+16:41:01	Warning: 	Moved Permanently for https://billo.app/?p=8194
+16:41:01	Warning: 	File has moved from https://billo.app/?p=8194 to https://billo.app/the-ultimate-collaboration-how-brands-should-collab-with-creators/
+16:41:01	Warning: 	Moved Permanently for https://billo.app/?p=8162
+16:41:01	Warning: 	File has moved from https://billo.app/?p=8162 to https://billo.app/best-practices-for-creating-high-converting-product-videos/
+16:41:01	Warning: 	Moved Permanently for https://billo.app/?p=1578
+16:41:01	Warning: 	File has moved from https://billo.app/?p=1578 to https://billo.app/facebook-video-ads-examples-proven-to-win-sales/
+16:41:01	Error: 	"Not Found" (404) at link https://billo.app/wp-content/uploads/2021/07/colgate-facebook-video-ads-examples.mp4 (from https://billo.app/facebook-video-ads-examples-proven-to-win-sales/)
+16:41:01	Error: 	"Not Found" (404) at link https://billo.app/wp-content/uploads/2021/07/ecovacs-brand-user-created-video.mp4 (from https://billo.app/facebook-video-ads-examples-proven-to-win-sales/)
+16:41:01	Error: 	"Not Found" (404) at link https://billo.app/wp-content/uploads/2021/07/english-school-facebook-video-ads-example.mp4 (from https://billo.app/facebook-video-ads-examples-proven-to-win-sales/)
+16:41:01	Warning: 	Moved Permanently for https://billo.app/?p=1864
+16:41:01	Warning: 	File has moved from https://billo.app/?p=1864 to https://billo.app/8-simple-facebook-ad-hacks-to-help-you-spend-less-and-sell-more/
+16:41:01	Error: 	"Not Found" (404) at link https://billo.app/wp-content/uploads/2021/07/97166006_233938411246254_5712912853034325528_n.mp4 (from https://billo.app/8-simple-facebook-ad-hacks-to-help-you-spend-less-and-sell-more/)
+16:41:01	Error: 	"Not Found" (404) at link https://billo.app/wp-content/uploads/2021/07/106566976_164046268511846_6286073923362582539_n.mp4 (from https://billo.app/8-simple-facebook-ad-hacks-to-help-you-spend-less-and-sell-more/)
+16:41:01	Warning: 	Moved Permanently for https://billo.app/?p=6019
+16:41:01	Warning: 	File has moved from https://billo.app/?p=6019 to https://billo.app/how-to-make-a-video-go-viral/
+16:41:01	Warning: 	Moved Permanently for https://billo.app/?p=6017
+16:41:01	Warning: 	File has moved from https://billo.app/?p=6017 to https://billo.app/instagram-ad-examples/
+16:41:06	Error: 	"Not Found" (404) at link https://billo.app/reels-vs-igtv/ (from https://billo.app/instagram-ad-examples/)
+16:41:06	Warning: 	Moved Permanently for https://billo.app/?p=7048
+16:41:06	Warning: 	File has moved from https://billo.app/?p=7048 to https://billo.app/how-to-make-a-commercial/
+16:41:06	Warning: 	Moved Permanently for https://billo.app/video/12418/
+16:41:06	Warning: 	File has moved from https://billo.app/video/12418/ to https://billo.app/
+16:41:06	Warning: 	Moved Permanently for https://billo.app/?p=23929
+16:41:06	Warning: 	File has moved from https://billo.app/?p=23929 to https://billo.app/why-ugc/
+16:41:06	Error: 	"Not Found" (404) at link https://billo.app/infographic-60-of-businesses-surveyed-say-user-generated-content-increased-video-ad-conversion/ (from https://billo.app/why-ugc/)
+16:41:06	Warning: 	Moved Permanently for https://billo.app/?p=23204
+16:41:06	Warning: 	File has moved from https://billo.app/?p=23204 to https://billo.app/ugc-ads/
+16:41:16	Warning: 	Moved Permanently for https://billo.app/?p=443
+16:41:16	Warning: 	File has moved from https://billo.app/?p=443 to https://billo.app/content-creators-vs-influencers-which-ones-should-brands-work-with/
+16:41:16	Warning: 	Moved Permanently for https://billo.app/?p=20406
+16:41:16	Warning: 	File has moved from https://billo.app/?p=20406 to https://billo.app/quiz/email-offer-1/
+16:41:16	Warning: 	Found for https://billo.app/quiz/summary-1/
+16:41:16	Warning: 	File has moved from https://billo.app/quiz/summary-1/ to /quiz/
+16:41:25	Warning: 	Moved Permanently for https://billo.app/?p=8218
+16:41:25	Warning: 	File has moved from https://billo.app/?p=8218 to https://billo.app/best-instagram-video-ads/
+16:41:25	Warning: 	Moved Permanently for https://billo.app/?p=6862
+16:41:25	Warning: 	File has moved from https://billo.app/?p=6862 to https://billo.app/instagram-guides/
+16:41:26	Error: 	"Not Found" (404) at link https://billo.app/instagram-content-creator/ (from https://billo.app/instagram-guides/)
+16:41:26	Warning: 	Moved Permanently for https://billo.app/?p=8207
+16:41:26	Warning: 	File has moved from https://billo.app/?p=8207 to https://billo.app/food-reviewers/
+16:41:31	Warning: 	Moved Permanently for https://billo.app/?p=6826
+16:41:31	Warning: 	File has moved from https://billo.app/?p=6826 to https://billo.app/breakeven-roas/
+16:41:47	Warning: 	Moved Permanently for https://billo.app/?p=8204
+16:41:47	Warning: 	File has moved from https://billo.app/?p=8204 to https://billo.app/food-videos-on-facebook/
+16:41:47	Warning: 	Moved Permanently for https://billo.app/?p=1921
+16:41:47	Warning: 	File has moved from https://billo.app/?p=1921 to https://billo.app/5-proven-ways-to-maximize-your-roas-on-facebook-video-ads/
+16:41:47	Error: 	"Not Found" (404) at link https://billo.app/wp-content/uploads/2021/07/purchase-3-2.mp4 (from https://billo.app/5-proven-ways-to-maximize-your-roas-on-facebook-video-ads/)
+16:41:47	Error: 	"Not Found" (404) at link https://billo.app/wp-content/uploads/2021/07/1593476568584-c68cb112fd314a980b57-trim.DC8B2068_5244_46C6_ADDB_66F15ECB855F-1.mov (from https://billo.app/5-proven-ways-to-maximize-your-roas-on-facebook-video-ads/)
+16:41:47	Warning: 	Moved Permanently for https://billo.app/?p=1169
+16:41:47	Warning: 	File has moved from https://billo.app/?p=1169 to https://billo.app/four-tips-to-reducing-social-media-advertising-cost/
+16:41:47	Warning: 	Moved Permanently for https://billo.app/blog/user-generated-content/
+16:41:47	Warning: 	File has moved from https://billo.app/blog/user-generated-content/ to https://billo.app/user-generated-content-stay-one-step-ahead-and-skyrocket-your-sales/
+16:41:47	Error: 	"Not Found" (404) at link https://billo.app/5-low-cost-video-marketing-strategies-for-small-business-in-2021/ (from https://billo.app/four-tips-to-reducing-social-media-advertising-cost/)
+16:41:47	Error: 	"Not Found" (404) at link https://billo.app/brand-created-vs-ugc-video-ads-which-work-better-for-ecommerce-facebook-advertising/ (from https://billo.app/four-tips-to-reducing-social-media-advertising-cost/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 58 minutes 17 seconds : 3371 links scanned, 3150 files written (2953137362 bytes overall) [2808619746 bytes received at 803151 bytes/sec], 192442712 bytes transferred using HTTP compression in 1184 files, ratio 19%, 15.8 requests per connection
+(43 errors, 361 warnings, 0 messages)

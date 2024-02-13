@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+billo.app	TRUE	/stock/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+billo.app	TRUE	/	FALSE	1999999999	_lscache_vary	3987c490102b7ccb8dcdf25bd214e796
+billo.app	TRUE	/	FALSE	1999999999	mo_openid_signup_url	https%3A%2F%2Fbillo.app%2Fstock%2Fproduct%2Fget-close-with-protection
+billo.app	TRUE	/	FALSE	1999999999	PHPSESSID	dei0qhf8vqj7ds8me3dk71i1n3
+
